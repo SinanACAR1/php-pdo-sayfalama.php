@@ -1,2 +1,1 @@
-# php-pdo-sayfalama.php
-php pdo ile sayfalama yapımı
+VERİ TABANI BİLGİLERİNİ KENDİ BİLGİLERİNİZ İLE DEĞİŞTİRİN.
